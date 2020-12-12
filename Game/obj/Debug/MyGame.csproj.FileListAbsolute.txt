@@ -1,0 +1,8 @@
+C:\Users\alkap\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\alkap\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\alkap\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\alkap\source\repos\Game\Game\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\alkap\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\alkap\source\repos\Game\Game\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\alkap\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\alkap\source\repos\Game\Game\obj\Debug\Game.pdb
